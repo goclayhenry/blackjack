@@ -19,7 +19,7 @@ body {
     background: transparent;
 }
 
-#playerOne {
+#playerOneImg {
     
     left: 775px;
     top: 480px;
@@ -27,7 +27,7 @@ body {
     z-index: 3;
 }
 
-#dealer {
+#dealerImg {
     left: 600px;
     top: -10px;
     z-index: 1;
